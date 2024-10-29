@@ -1,0 +1,34 @@
+=== aiXorder ===
+Contributors: Ek0
+Donate link: http://www.aixo.fr/aixorder
+Tags: order, posts, popularity, sticky
+Requires at least: 2.0.2
+Tested up to: 2.5.1
+Stable tag: 1.1
+
+aiXorder vous permet de réordonner vos billets selon leur popularité et leur nouveauté. Le calcul du score est entièrement personnalisable.
+
+== Description ==
+
+* Réordonnez vos billets selon leur popularité et leur nouveauté
+* Choisissez de mettre l'accent sur la popularité ou la nouveauté
+* Epinglez en premières positions X billets, ou les billets publiés depuis moins de X jours.
+* Choisissez de favoriser les nouveaux billets pendant X jours.
+* Choisissez la valeur d'une simple lecture, d'une vue en home page, d'un commentaire, d'un pingback...
+* Interface admin "user-friendly"
+* Graphique détaillé des points de vos posts
+* Intégration de WP-Postsratings
+* Choisissez dans quelles sections s'applique le plug-in (home, catégories...)
+
+== Installation ==
+
+1. Uploadez le dossier aixorder/ vers /wp-content/plugins/
+2. Activez le plugin dans la liste des plugins.
+3. Configurez-le dans Réglages->aiXorder
+
+== Screenshots ==
+1. screenshot de l'interface admin en anglais
+2. screenshot de l'interface admin en français
+
+== Frequently Asked Questions ==
+Veuillez consulter la section aide de la page d'options du plugin.

@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-28 21:54+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ek0 <Ek0@aixo.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: aixorder.php:519
+#: ../aixorder.php:557
+#: ../aixorder.php:937
+msgid "in+grey,+posts+forced+on+first+positions"
+msgstr "en+gris,+les+billets+épinglés"
+
+#: aixorder.php:519
+#: ../aixorder.php:557
+#: ../aixorder.php:937
+msgid "Popularity|Novelty"
+msgstr "Popularité|Nouveauté"
+
+#: aixorder.php:539
+#: ../aixorder.php:502
+#: ../aixorder.php:557
+msgid "Reorder your posts depending on their novelty and popularity"
+msgstr "Réordonnez vos billets selon leur nouveauté et leur popularité"
+
+#: aixorder.php:539
+#: ../aixorder.php:502
+#: ../aixorder.php:557
+msgid "Official Plugin Page"
+msgstr "Page officielle du plugin"
+
+#: aixorder.php:539
+#: ../aixorder.php:502
+#: ../aixorder.php:557
+msgid "Official plugin page"
+msgstr "Page officielle du plugin"
+
+#: aixorder.php:539
+#: ../aixorder.php:502
+#: ../aixorder.php:557
+msgid "written by"
+msgstr "écrit par"
+
+#: aixorder.php:540
+#: ../aixorder.php:561
+#: ../aixorder.php:586
+msgid "You can <a href=\"#aixorder_graph\">view your posts points</a>, <a href=\"#aixorder_settings\">update the plugin settings</a> or <a href=\"#aixorder_help\">find help here.</a>"
+msgstr "Vous pouvez <a href=\"#aixorder_graph\">voir les points de vos billets</a>, <a href=\"#aixorder_settings\">modifier les réglages du plugin</a> ou <a href=\"#aixorder_help\">trouver de l'aide ici.</a>"
+
+#: aixorder.php:543
+#: ../aixorder.php:564
+#: ../aixorder.php:589
+msgid "Posts points with current settings"
+msgstr "Points par billet avec les paramètres courants"
+
+#: aixorder.php:547
+#: ../aixorder.php:568
+#: ../aixorder.php:593
+msgid "Plugin settings"
+msgstr "Réglages du plugin"
+
+#: aixorder.php:553
+#: ../aixorder.php:574
+#: ../aixorder.php:625
+msgid "Sticky posts"
+msgstr "Billets épinglés"
+
+#: aixorder.php:559
+#: ../aixorder.php:580
+#: ../aixorder.php:631
+msgid "Force the X last posts on first position"
+msgstr "Forcer les X derniers billets en premières positions"
+
+#: aixorder.php:559
+#: aixorder.php:571
+#: aixorder.php:592
+#: aixorder.php:624
+#: aixorder.php:646
+#: aixorder.php:659
+#: aixorder.php:672
+#: aixorder.php:684
+#: aixorder.php:696
+#: aixorder.php:708
+#: aixorder.php:720
+#: aixorder.php:732
+#: ../aixorder.php:580
+#: ../aixorder.php:592
+#: ../aixorder.php:613
+#: ../aixorder.php:645
+#: ../aixorder.php:667
+#: ../aixorder.php:680
+#: ../aixorder.php:693
+#: ../aixorder.php:705
+#: ../aixorder.php:717
+#: ../aixorder.php:729
+#: ../aixorder.php:741
+#: ../aixorder.php:753
+#: ../aixorder.php:605
+#: ../aixorder.php:631
+#: ../aixorder.php:643
+#: ../aixorder.php:664
+#: ../aixorder.php:696
+#: ../aixorder.php:718
+#: ../aixorder.php:731
+#: ../aixorder.php:744
+#: ../aixorder.php:756
+#: ../aixorder.php:768
+#: ../aixorder.php:780
+#: ../aixorder.php:792
+#: ../aixorder.php:804
+#: ../aixorder.php:828
+msgid "Click for help!"
+msgstr "Cliquez pour de l'aide sur ce paramètre !"
+
+#: aixorder.php:564
+#: ../aixorder.php:585
+#: ../aixorder.php:636
+msgid "Force your X last posts to be shown on first position when viewing your home page. Can be used in parallel of the next feature. For example, if you want to modify the order to start only on page 2, enter the number of posts you display on your home page."
+msgstr "Forcez les X derniers billets à être en premières positions sur votre home page. Peut être utilisé en parallèle avec la fonctionnalité suivante. Par exemple, si vous ne voulez modifier l'ordre qu'à partir de la page 2, entrez le nombre de billets de votre home page."
+
+#: aixorder.php:571
+#: ../aixorder.php:592
+#: ../aixorder.php:643
+msgid "Force posts younger than Y days on first position."
+msgstr "Forcer les billets publiés il y a moins de Y jours en premières positions."
+
+#: aixorder.php:576
+#: ../aixorder.php:597
+#: ../aixorder.php:648
+msgid "Force the posts younger than Y days to be shown on first position when viewing your home page. Can be used in parallel of the precedent feature. For example, if you want to keep a normal order for posts younger than a month, put 30. If you just want to give bonus points to young posts, check \"Novelty points calcul\" section."
+msgstr "Forcez les billets publiés il y a moins de Y jours en premières positions sur votre home page. Peut être utilisé en parallèle avec la fonctionnalité précédente. Par exemple, si vous voulez garder un ordre normal pour les billets de moins d'un mois, mettez 30. Si vous voulez juste favoriser les billets récents, regardez plutôt la section \"Calcul des points de nouveauté\"."
+
+#: aixorder.php:586
+#: aixorder.php:592
+#: ../aixorder.php:607
+#: ../aixorder.php:613
+#: ../aixorder.php:658
+#: ../aixorder.php:664
+msgid "Focus on..."
+msgstr "Mettre l'accent sur..."
+
+#: aixorder.php:595
+#: ../aixorder.php:616
+#: ../aixorder.php:667
+msgid "Popularity"
+msgstr "Popularité"
+
+#: aixorder.php:605
+#: ../aixorder.php:626
+#: ../aixorder.php:677
+msgid "Novelty"
+msgstr "Nouveauté"
+
+#: aixorder.php:608
+#: ../aixorder.php:629
+#: ../aixorder.php:680
+msgid "Choose here the balance between popularity and novelty in the score calcul. If you choose 100%, the score will only be based on novelty, so the the order will be the same as if there was no plugin. If you choose 0%, the order will not take in consideration the post date at all. A good value is 50%."
+msgstr "Choisissez ici la balance entre la popularité et la nouveauté dans le calcul du score d'un billet. Si vous choisissez 100%, le score sera seulement basé sur la nouveauté, et donc l'ordre sera le même que s'il n'y avait pas de plugin. Si vous choisissez 0%, l'ordre ne prendra plus du tout en compte la date de parution des billets (vous aurez un best-of). Une bonne valeur est 50%."
+
+#: aixorder.php:618
+#: ../aixorder.php:639
+#: ../aixorder.php:690
+msgid "Novelty calcul settings"
+msgstr "Calcul des points de nouveauté"
+
+#: aixorder.php:624
+#: ../aixorder.php:645
+#: ../aixorder.php:696
+msgid "Give novelty points to posts youger than X days"
+msgstr "Donner des points de nouveauté aux billets parus il y a moins de X jours"
+
+#: aixorder.php:630
+#: ../aixorder.php:651
+#: ../aixorder.php:702
+msgid "Choose here how many times a new published post will get novelty points. When you publish it, its novelty score is 100%, and it is each day decremented. After X days, it reaches zero. Define well this period if you do not want to see recent posts doubled by particularly popular posts."
+msgstr "Choisissez ici pendant combien de temps un nouveau billet recevra des points de nouveauté. Quand vous le publiez, son score de nouveauté est de 100%, et il est décrémenté chaque jour. Après X jours, il devient nul. Définissez avec soin cette durée si vous ne voulez pas voir des billets assez récents se faire \"doubler\" par des billets particulièrement populaires."
+
+#: aixorder.php:640
+#: ../aixorder.php:661
+#: ../aixorder.php:712
+msgid "Popularity calcul settings"
+msgstr "Calcul des points de popularité"
+
+#: aixorder.php:646
+#: ../aixorder.php:667
+#: ../aixorder.php:718
+msgid "Home view value"
+msgstr "Valeur d'une vue en home page"
+
+#: aixorder.php:652
+#: aixorder.php:665
+#: aixorder.php:678
+#: aixorder.php:690
+#: aixorder.php:702
+#: aixorder.php:714
+#: aixorder.php:726
+#: aixorder.php:738
+#: ../aixorder.php:673
+#: ../aixorder.php:686
+#: ../aixorder.php:699
+#: ../aixorder.php:711
+#: ../aixorder.php:723
+#: ../aixorder.php:735
+#: ../aixorder.php:747
+#: ../aixorder.php:759
+#: ../aixorder.php:724
+#: ../aixorder.php:737
+#: ../aixorder.php:750
+#: ../aixorder.php:762
+#: ../aixorder.php:774
+#: ../aixorder.php:786
+#: ../aixorder.php:798
+#: ../aixorder.php:810
+msgid "Choose here how many popularity points a post will get for this type of view. Default values are trustable."
+msgstr "Choisissez ici combien de points de popularité apporte chaque type de vue. Les valeurs par défaut sont conseillées."
+
+#: aixorder.php:659
+#: ../aixorder.php:680
+#: ../aixorder.php:731
+msgid "Single view value"
+msgstr "Valeur d'une lecture"
+
+#: aixorder.php:672
+#: ../aixorder.php:693
+#: ../aixorder.php:744
+msgid "Category view value"
+msgstr "Valeur d'une vue en catégories"
+
+#: aixorder.php:684
+#: ../aixorder.php:705
+#: ../aixorder.php:756
+msgid "Archive view value"
+msgstr "Valeur d'une vue en archives"
+
+#: aixorder.php:696
+#: ../aixorder.php:717
+#: ../aixorder.php:768
+msgid "Feed view value"
+msgstr "Valeur d'une vue dans un feed"
+
+#: aixorder.php:708
+#: ../aixorder.php:729
+#: ../aixorder.php:780
+msgid "Comment value"
+msgstr "Valeur d'un commentaire"
+
+#: aixorder.php:720
+#: ../aixorder.php:741
+#: ../aixorder.php:792
+msgid "Pingback value"
+msgstr "Valeur d'un pingback"
+
+#: aixorder.php:732
+#: ../aixorder.php:753
+#: ../aixorder.php:804
+msgid "Trackback value"
+msgstr "Valeur d'un trackback"
+
+#: aixorder.php:747
+#: ../aixorder.php:769
+#: ../aixorder.php:851
+msgid "Save settings"
+msgstr "Enregistrer les options"
+
+#: aixorder.php:755
+#: ../aixorder.php:779
+msgid "Help"
+msgstr "Aide"
+
+#: aixorder.php:756
+#: ../aixorder.php:780
+#: ../aixorder.php:864
+msgid "How are posts ordered ?"
+msgstr "Comment sont ordonnés les billets ?"
+
+#: aixorder.php:756
+#: ../aixorder.php:780
+#: ../aixorder.php:864
+msgid "aiXorder relies on a system of points. For each post, there are two main counters: novelty et popularity. You can fully customize the calcul of the points in this page. To understand how points are calculated exactly, here are the rules used."
+msgstr "aiXorder repose sur un système de points. Chaque billet possède deux compteurs, pour sa popularité et sa nouveauté. Vous pouvez entièrement personnaliser le calcul des points sur cette page. Pour comprendre le calcul exact, voici les règles utilisées."
+
+#: aixorder.php:757
+#: ../aixorder.php:781
+#: ../aixorder.php:865
+msgid "rules_EN.png"
+msgstr "rules_FR.png"
+
+#: aixorder.php:758
+#: ../aixorder.php:782
+#: ../aixorder.php:783
+#: ../aixorder.php:867
+msgid "What are the good settings ?"
+msgstr "Quels sont les bons réglages ?"
+
+#: aixorder.php:758
+#: ../aixorder.php:782
+#: ../aixorder.php:783
+#: ../aixorder.php:867
+msgid "It is up to you to decide what you want to show to your visitors ! It depends on the type of your blog... For example, if you write often, you could have to define a bigger number of sticky posts, otherwise your last articles will go down before having a enough big score to stay on first page."
+msgstr "C'est à vous de décider ce que vous voulez montrer à vos visiteurs ! Tout dépend du type de votre blog. Par exemple, si vous écrivez souvent, vous pourriez avoir à augmenter le nombre de posts épinglés, sinon vos derniers articles vont descendre dans le classement avant d'avoir un score de popularité assez important pour rester en home page."
+
+#: aixorder.php:759
+#: ../aixorder.php:783
+#: ../aixorder.php:785
+#: ../aixorder.php:870
+msgid "Where do I find help ?"
+msgstr "Où puis-je trouver de l'aide ?"
+
+#: aixorder.php:759
+#: ../aixorder.php:783
+#: ../aixorder.php:785
+#: ../aixorder.php:870
+msgid "You will find help on the <a title=\"Official Plugin Page\" href=\"http://www.aixo.fr/aixorder\">official plugin page</a>."
+msgstr "Vous trouverez de l'aide sur la <a title=\"Official Plugin Page\" href=\"http://www.aixo.fr/aixorder\">page officielle du plugin</a>."
+
+#: ../aixorder.php:514
+#: ../aixorder.php:569
+msgid "aiXorder was uninstalled"
+msgstr "aiXorder a été désinstallé"
+
+#: ../aixorder.php:516
+#: ../aixorder.php:571
+msgid "The plugin was uninstalled without any problem. Your database was cleaned from aiXorder data. You can reinstall it simply by activating it in the plugins list, but your visits statistics will start from zero again."
+msgstr "Le plugin a été correctement désinstallé. Toutes les données d'aiXorder ont été supprimées de votre base de données. Vous pouvez le réinstaller simplement en le réactivant dans la liste des plugins, mais les statistiques de vos visites repartiront de zéro."
+
+#: ../aixorder.php:770
+#: ../aixorder.php:852
+msgid "(Changes will immediatly be shown on the graph.)"
+msgstr "(Les changements seront immédiatement visibles sur le graphe.)"
+
+#: ../aixorder.php:789
+#: ../aixorder.php:792
+#: ../aixorder.php:791
+#: ../aixorder.php:794
+#: ../aixorder.php:879
+msgid "Uninstall aiXorder"
+msgstr "Désinstaller aiXorder"
+
+#: ../aixorder.php:790
+#: ../aixorder.php:792
+#: ../aixorder.php:877
+msgid "aiXorder uses a custom table in your wordpress database to store statistics. If you just deactivate the plugin on the plugins list, this table will not be dropped in order to keep your statistics. If you want to uninstall aiXorder properly, click on \"Uninstall aiXorder\" and all data will be erased."
+msgstr "aiXorder utilise sa propre table dans votre base de données Wordpress pour stocker les statistiques. Si vous désactivez seulement le plugin dans la liste des plugins, cette table ne sera pas effacée et vous conserverez vos statistiques. Si vous voulez désinstaller complètement et proprement aiXorder, cliquez sur \"Désinstaller aiXorder\" et toutes les données seront supprimées."
+
+#: ../aixorder.php:792
+#: ../aixorder.php:794
+#: ../aixorder.php:879
+msgid "Are you sure you want to do this ?"
+msgstr "Etes-vous sûr de vouloir faire ça ?"
+
+#: ../aixorder.php:782
+#: ../aixorder.php:866
+msgid "Do not hesitate to click on the \"[?]\" for each parameter to get precisions."
+msgstr "N'hésitez pas à cliquer sur \"[?]\" pour obtenir des précisions sur chaque paramètre."
+
+#: ../aixorder.php:784
+#: ../aixorder.php:868
+msgid "When are scores updated ?"
+msgstr "Quand sont mis à jour les scores?"
+
+#: ../aixorder.php:784
+#: ../aixorder.php:868
+msgid "In order not to overload the Wordpress database, scores are not updated at each action or each view. But they are updated often enough to always be representative: each hour, when a new post is published, and each time you open this page."
+msgstr "Pour ne pas surchager la base de données Wordpress, les scores ne sont pas mis à jour à chaque action, ou chaque vue. Mais il sont mis à jour assez souvent pour être toujours justes: toutes les heures, dès qu'un nouveau billet est publié, et chaque fois que vous ouvrez cette page."
+
+#: ../aixorder.php:599
+msgid "Custom order sections"
+msgstr "Sections triées par score aiXorder"
+
+#: ../aixorder.php:605
+msgid "Display the posts ordered by aiXorder score on..."
+msgstr "Trier les billets par score en..."
+
+#: ../aixorder.php:608
+msgid "Home"
+msgstr "Home"
+
+#: ../aixorder.php:609
+msgid "Feed"
+msgstr "Feed"
+
+#: ../aixorder.php:610
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../aixorder.php:611
+msgid "Archives"
+msgstr "Archives"
+
+#: ../aixorder.php:612
+msgid "Search results"
+msgstr "Résultats de recherche"
+
+#: ../aixorder.php:614
+msgid "Choose which section you want to reorder using the custom aiXorder score. If you do not want to surprise your daily visitors but show a more adapted listing in categories and archives, you could deactivate \"Home\". In deactivated sections, the listings are ordered by date."
+msgstr "Choisissez dans quelles sections vous voulez réordonner vos billets selon le score aiXorder. Si vous ne voulez pas surprendre vos visiteurs réguliers mais montrer des listings plus pertinents dans les catégories et les archives, vous pouvez par exemple désactiver \"Home\". Dans les sections désactivées, les billets sont ordonnés par date."
+
+#: ../aixorder.php:821
+msgid "WP-PostRatings integration"
+msgstr "Intégration de WP-PostsRatings"
+
+#: ../aixorder.php:828
+msgid "Coefficient of WP-PostRatings scores in the popularity calcul"
+msgstr "Coefficient des scores WP-PostsRatings dans le calcul de la popularité"
+
+#: ../aixorder.php:834
+msgid "Choose here the coefficient to apply to WP-PostsRatings scores when calculating popularity score. The average score will be used. For example, if the post average rating is 4.7, 4.7*X points will be added to the popularity score. Just put 0 if you do not want WP-PostsRatings to be part of the aiXorder score."
+msgstr "Choisissez ici le coefficient à appliquer aux scores de WP-PostsRatings au moment du calcul du score de popularité. Le score moyen sera utilisé. Par exemple, si le billet a une note moyenne de 4,7, 4,7*X points seront ajoutés au score de popularité. Laissez 0 si vous ne voulez pas prendre en compte WP-PostsRatings."
+
+#: ../aixorder.php:839
+msgid "<strong>WP-PostsRatings does not seem to be installed and activated on this blog. </strong>WP-PostsRating is a very good Wordpress plugin that allows visitors to rate your posts. aiXorder can integrate this rating in the popularity score calcul ! Find more information about this plugin on <a href=\"http://wordpress.org/extend/plugins/wp-postratings/\">the official plugin repository</a>."
+msgstr "<strong>WP-PostsRatings semble ne pas être installé et activé sur ce blog. </strong>WP-PostsRatings est un excellent plugin qui permet à vos visiteurs de noter vos billets. aiXorder peut intégrer cette note dans le calcul du score de popularité ! Vous trouverez plus d'informations sur ce plugin sur <a href=\"http://wordpress.org/extend/plugins/wp-postratings/\">le dépôt officiel des plugins</a>."
+
+#: ../aixorder.php:857
+msgid "Reset settings"
+msgstr "Réinitialiser les options"
+
+#: ../aixorder.php:863
+msgid "Help | Instructions"
+msgstr "Aide | Instructions"
+
+#: ../aixorder.php:869
+msgid "I want to show the chart on a page, how do I do ?"
+msgstr "Je veux montrer le graphique dans une page, comment je fais ?"
+
+#: ../aixorder.php:869
+msgid "If you want to insert the chart you can see on this settings page, you can do it easily: just put the following shortcode anywhere you want in the editor when writing a post or a page:"
+msgstr "Si vous voulez insérer le graphique que vous voyez sur cette page d'options, vous pouvez le faire facilement : insérez juste le shortcode suivant où vous voulez dans l'éditeur visuel quand vous écrivez un billet ou une page:"
+
+#: ../aixorder.php:869
+msgid "You can also insert it directly in a theme template, adding the following line:"
+msgstr "Vous pouvez aussi l'insérer directement directement dans un template de votre thème, en ajoutant la ligne suivante:"
+
+#: ../aixorder.php:869
+msgid "<br/>In the next update, you will be able to customize this chart ;)"
+msgstr "<br/>Dans la prochaine mise à jour, vous pourrez personnaliser ce graphique ;)"
+
+#: ../aixorder.php:875
+msgid "Database maintenance"
+msgstr "Maintenance de la base de données"
+
+#: ../aixorder.php:884
+msgid "You can also only reset the posts statistics since the plugin installation. All statistics will be lost, beware: views data cannot be recalculated."
+msgstr "Vous pouvez aussi réinitialiser les statistiques sur les billets collectées depuis l'installation du plugin. Toutes les données seront perdues, attention: le nombre de vues de chaque billet ne pourra pas être recalculé."
+
+#: ../aixorder.php:886
+msgid "Reset all stats"
+msgstr "Réinitialiser les statistiques"
+

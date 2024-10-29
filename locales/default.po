@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-28 21:54+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ek0 <Ek0@aixo.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: aixorder.php:519
+#: ../aixorder.php:557
+#: ../aixorder.php:937
+msgid "in+grey,+posts+forced+on+first+positions"
+msgstr "in+grey,+posts+forced+on+first+positions"
+
+#: aixorder.php:519
+#: ../aixorder.php:557
+#: ../aixorder.php:937
+msgid "Popularity|Novelty"
+msgstr "Popularity|Novelty"
+
+#: aixorder.php:539
+#: ../aixorder.php:502
+#: ../aixorder.php:557
+msgid "Reorder your posts depending on their novelty and popularity"
+msgstr "Reorder your posts depending on their novelty and popularity"
+
+#: aixorder.php:539
+#: ../aixorder.php:502
+#: ../aixorder.php:557
+msgid "Official Plugin Page"
+msgstr "Official Plugin Page"
+
+#: aixorder.php:539
+#: ../aixorder.php:502
+#: ../aixorder.php:557
+msgid "Official plugin page"
+msgstr "Official plugin page"
+
+#: aixorder.php:539
+#: ../aixorder.php:502
+#: ../aixorder.php:557
+msgid "written by"
+msgstr "written by"
+
+#: aixorder.php:540
+#: ../aixorder.php:561
+#: ../aixorder.php:586
+msgid "You can <a href=\"#aixorder_graph\">view your posts points</a>, <a href=\"#aixorder_settings\">update the plugin settings</a> or <a href=\"#aixorder_help\">find help here.</a>"
+msgstr "You can <a href=\"#aixorder_graph\">view your posts points</a>, <a href=\"#aixorder_settings\">update the plugin settings</a> or <a href=\"#aixorder_help\">find help here.</a>"
+
+#: aixorder.php:543
+#: ../aixorder.php:564
+#: ../aixorder.php:589
+msgid "Posts points with current settings"
+msgstr "Posts points with current settings"
+
+#: aixorder.php:547
+#: ../aixorder.php:568
+#: ../aixorder.php:593
+msgid "Plugin settings"
+msgstr "Plugin settings"
+
+#: aixorder.php:553
+#: ../aixorder.php:574
+#: ../aixorder.php:625
+msgid "Sticky posts"
+msgstr "Sticky posts"
+
+#: aixorder.php:559
+#: ../aixorder.php:580
+#: ../aixorder.php:631
+msgid "Force the X last posts on first position"
+msgstr "Force the X last posts on first position"
+
+#: aixorder.php:559
+#: aixorder.php:571
+#: aixorder.php:592
+#: aixorder.php:624
+#: aixorder.php:646
+#: aixorder.php:659
+#: aixorder.php:672
+#: aixorder.php:684
+#: aixorder.php:696
+#: aixorder.php:708
+#: aixorder.php:720
+#: aixorder.php:732
+#: ../aixorder.php:580
+#: ../aixorder.php:592
+#: ../aixorder.php:613
+#: ../aixorder.php:645
+#: ../aixorder.php:667
+#: ../aixorder.php:680
+#: ../aixorder.php:693
+#: ../aixorder.php:705
+#: ../aixorder.php:717
+#: ../aixorder.php:729
+#: ../aixorder.php:741
+#: ../aixorder.php:753
+#: ../aixorder.php:605
+#: ../aixorder.php:631
+#: ../aixorder.php:643
+#: ../aixorder.php:664
+#: ../aixorder.php:696
+#: ../aixorder.php:718
+#: ../aixorder.php:731
+#: ../aixorder.php:744
+#: ../aixorder.php:756
+#: ../aixorder.php:768
+#: ../aixorder.php:780
+#: ../aixorder.php:792
+#: ../aixorder.php:804
+#: ../aixorder.php:828
+msgid "Click for help!"
+msgstr "Click for help!"
+
+#: aixorder.php:564
+#: ../aixorder.php:585
+#: ../aixorder.php:636
+msgid "Force your X last posts to be shown on first position when viewing your home page. Can be used in parallel of the next feature. For example, if you want to modify the order to start only on page 2, enter the number of posts you display on your home page."
+msgstr "Force your X last posts to be shown on first position when viewing your home page. Can be used in parallel of the next feature. For example, if you want to modify the order to start only on page 2, enter the number of posts you display on your home page."
+
+#: aixorder.php:571
+#: ../aixorder.php:592
+#: ../aixorder.php:643
+msgid "Force posts younger than Y days on first position."
+msgstr "Force posts younger than Y days on first position."
+
+#: aixorder.php:576
+#: ../aixorder.php:597
+#: ../aixorder.php:648
+msgid "Force the posts younger than Y days to be shown on first position when viewing your home page. Can be used in parallel of the precedent feature. For example, if you want to keep a normal order for posts younger than a month, put 30. If you just want to give bonus points to young posts, check \"Novelty points calcul\" section."
+msgstr "Force the posts younger than Y days to be shown on first position when viewing your home page. Can be used in parallel of the precedent feature. For example, if you want to keep a normal order for posts younger than a month, put 30. If you just want to give bonus points to young posts, check \"Novelty points calcul\" section."
+
+#: aixorder.php:586
+#: aixorder.php:592
+#: ../aixorder.php:607
+#: ../aixorder.php:613
+#: ../aixorder.php:658
+#: ../aixorder.php:664
+msgid "Focus on..."
+msgstr "Focus on..."
+
+#: aixorder.php:595
+#: ../aixorder.php:616
+#: ../aixorder.php:667
+msgid "Popularity"
+msgstr "Popularity"
+
+#: aixorder.php:605
+#: ../aixorder.php:626
+#: ../aixorder.php:677
+msgid "Novelty"
+msgstr "Novelty"
+
+#: aixorder.php:608
+#: ../aixorder.php:629
+#: ../aixorder.php:680
+msgid "Choose here the balance between popularity and novelty in the score calcul. If you choose 100%, the score will only be based on novelty, so the the order will be the same as if there was no plugin. If you choose 0%, the order will not take in consideration the post date at all. A good value is 50%."
+msgstr "Choose here the balance between popularity and novelty in the score calcul. If you choose 100%, the score will only be based on novelty, so the the order will be the same as if there was no plugin. If you choose 0%, the order will not take in consideration the post date at all. A good value is 50%."
+
+#: aixorder.php:618
+#: ../aixorder.php:639
+#: ../aixorder.php:690
+msgid "Novelty calcul settings"
+msgstr "Novelty calcul settings"
+
+#: aixorder.php:624
+#: ../aixorder.php:645
+#: ../aixorder.php:696
+msgid "Give novelty points to posts youger than X days"
+msgstr "Give novelty points to posts youger than X days"
+
+#: aixorder.php:630
+#: ../aixorder.php:651
+#: ../aixorder.php:702
+msgid "Choose here how many times a new published post will get novelty points. When you publish it, its novelty score is 100%, and it is each day decremented. After X days, it reaches zero. Define well this period if you do not want to see recent posts doubled by particularly popular posts."
+msgstr "Choose here how many times a new published post will get novelty points. When you publish it, its novelty score is 100%, and it is each day decremented. After X days, it reaches zero. Define well this period if you do not want to see recent posts doubled by particularly popular posts."
+
+#: aixorder.php:640
+#: ../aixorder.php:661
+#: ../aixorder.php:712
+msgid "Popularity calcul settings"
+msgstr "Popularity calcul settings"
+
+#: aixorder.php:646
+#: ../aixorder.php:667
+#: ../aixorder.php:718
+msgid "Home view value"
+msgstr "Home view value"
+
+#: aixorder.php:652
+#: aixorder.php:665
+#: aixorder.php:678
+#: aixorder.php:690
+#: aixorder.php:702
+#: aixorder.php:714
+#: aixorder.php:726
+#: aixorder.php:738
+#: ../aixorder.php:673
+#: ../aixorder.php:686
+#: ../aixorder.php:699
+#: ../aixorder.php:711
+#: ../aixorder.php:723
+#: ../aixorder.php:735
+#: ../aixorder.php:747
+#: ../aixorder.php:759
+#: ../aixorder.php:724
+#: ../aixorder.php:737
+#: ../aixorder.php:750
+#: ../aixorder.php:762
+#: ../aixorder.php:774
+#: ../aixorder.php:786
+#: ../aixorder.php:798
+#: ../aixorder.php:810
+msgid "Choose here how many popularity points a post will get for this type of view. Default values are trustable."
+msgstr "Choose here how many popularity points a post will get for this type of view. Default values are trustable."
+
+#: aixorder.php:659
+#: ../aixorder.php:680
+#: ../aixorder.php:731
+msgid "Single view value"
+msgstr "Single view value"
+
+#: aixorder.php:672
+#: ../aixorder.php:693
+#: ../aixorder.php:744
+msgid "Category view value"
+msgstr "Category view value"
+
+#: aixorder.php:684
+#: ../aixorder.php:705
+#: ../aixorder.php:756
+msgid "Archive view value"
+msgstr "Archive view value"
+
+#: aixorder.php:696
+#: ../aixorder.php:717
+#: ../aixorder.php:768
+msgid "Feed view value"
+msgstr "Feed view value"
+
+#: aixorder.php:708
+#: ../aixorder.php:729
+#: ../aixorder.php:780
+msgid "Comment value"
+msgstr "Comment value"
+
+#: aixorder.php:720
+#: ../aixorder.php:741
+#: ../aixorder.php:792
+msgid "Pingback value"
+msgstr "Pingback value"
+
+#: aixorder.php:732
+#: ../aixorder.php:753
+#: ../aixorder.php:804
+msgid "Trackback value"
+msgstr "Trackback value"
+
+#: aixorder.php:747
+#: ../aixorder.php:769
+#: ../aixorder.php:851
+msgid "Save settings"
+msgstr "Save settings"
+
+#: aixorder.php:755
+#: ../aixorder.php:779
+msgid "Help"
+msgstr "Help"
+
+#: aixorder.php:756
+#: ../aixorder.php:780
+#: ../aixorder.php:864
+msgid "How are posts ordered ?"
+msgstr "How are posts ordered ?"
+
+#: aixorder.php:756
+#: ../aixorder.php:780
+#: ../aixorder.php:864
+msgid "aiXorder relies on a system of points. For each post, there are two main counters: novelty et popularity. You can fully customize the calcul of the points in this page. To understand how points are calculated exactly, here are the rules used."
+msgstr "aiXorder relies on a system of points. For each post, there are two main counters: novelty et popularity. You can fully customize the calcul of the points in this page. To understand how points are calculated exactly, here are the rules used."
+
+#: aixorder.php:757
+#: ../aixorder.php:781
+#: ../aixorder.php:865
+msgid "rules_EN.png"
+msgstr "rules_EN.png"
+
+#: aixorder.php:758
+#: ../aixorder.php:782
+#: ../aixorder.php:783
+#: ../aixorder.php:867
+msgid "What are the good settings ?"
+msgstr "What are the good settings ?"
+
+#: aixorder.php:758
+#: ../aixorder.php:782
+#: ../aixorder.php:783
+#: ../aixorder.php:867
+msgid "It is up to you to decide what you want to show to your visitors ! It depends on the type of your blog... For example, if you write often, you could have to define a bigger number of sticky posts, otherwise your last articles will go down before having a enough big score to stay on first page."
+msgstr "It is up to you to decide what you want to show to your visitors ! It depends on the type of your blog... For example, if you write often, you could have to define a bigger number of sticky posts, otherwise your last articles will go down before having a enough big score to stay on first page."
+
+#: aixorder.php:759
+#: ../aixorder.php:783
+#: ../aixorder.php:785
+#: ../aixorder.php:870
+msgid "Where do I find help ?"
+msgstr "Where do I find help ?"
+
+#: aixorder.php:759
+#: ../aixorder.php:783
+#: ../aixorder.php:785
+#: ../aixorder.php:870
+msgid "You will find help on the <a title=\"Official Plugin Page\" href=\"http://www.aixo.fr/aixorder\">official plugin page</a>."
+msgstr "You will find help on the <a title=\"Official Plugin Page\" href=\"http://www.aixo.fr/aixorder\">official plugin page</a>."
+
+#: ../aixorder.php:514
+#: ../aixorder.php:569
+msgid "aiXorder was uninstalled"
+msgstr "aiXorder was uninstalled"
+
+#: ../aixorder.php:516
+#: ../aixorder.php:571
+msgid "The plugin was uninstalled without any problem. Your database was cleaned from aiXorder data. You can reinstall it simply by activating it in the plugins list, but your visits statistics will start from zero again."
+msgstr "The plugin was uninstalled without any problem. Your database was cleaned from aiXorder data. You can reinstall it simply by activating it in the plugins list, but your visits statistics will start from zero again."
+
+#: ../aixorder.php:770
+#: ../aixorder.php:852
+msgid "(Changes will immediatly be shown on the graph.)"
+msgstr "(Changes will immediatly be shown on the graph.)"
+
+#: ../aixorder.php:789
+#: ../aixorder.php:792
+#: ../aixorder.php:791
+#: ../aixorder.php:794
+#: ../aixorder.php:879
+msgid "Uninstall aiXorder"
+msgstr "Uninstall aiXorder"
+
+#: ../aixorder.php:790
+#: ../aixorder.php:792
+#: ../aixorder.php:877
+msgid "aiXorder uses a custom table in your wordpress database to store statistics. If you just deactivate the plugin on the plugins list, this table will not be dropped in order to keep your statistics. If you want to uninstall aiXorder properly, click on \"Uninstall aiXorder\" and all data will be erased."
+msgstr "aiXorder uses a custom table in your wordpress database to store statistics. If you just deactivate the plugin on the plugins list, this table will not be dropped in order to keep your statistics. If you want to uninstall aiXorder properly, click on \"Uninstall aiXorder\" and all data will be erased."
+
+#: ../aixorder.php:792
+#: ../aixorder.php:794
+#: ../aixorder.php:879
+msgid "Are you sure you want to do this ?"
+msgstr "Are you sure you want to do this ?"
+
+#: ../aixorder.php:782
+#: ../aixorder.php:866
+msgid "Do not hesitate to click on the \"[?]\" for each parameter to get precisions."
+msgstr "Do not hesitate to click on the \"[?]\" for each parameter to get precisions."
+
+#: ../aixorder.php:784
+#: ../aixorder.php:868
+msgid "When are scores updated ?"
+msgstr "When are scores updated ?"
+
+#: ../aixorder.php:784
+#: ../aixorder.php:868
+msgid "In order not to overload the Wordpress database, scores are not updated at each action or each view. But they are updated often enough to always be representative: each hour, when a new post is published, and each time you open this page."
+msgstr "In order not to overload the Wordpress database, scores are not updated at each action or each view. But they are updated often enough to always be representative: each hour, when a new post is published, and each time you open this page."
+
+#: ../aixorder.php:599
+msgid "Custom order sections"
+msgstr "Custom order sections"
+
+#: ../aixorder.php:605
+msgid "Display the posts ordered by aiXorder score on..."
+msgstr "Display the posts ordered by aiXorder score on..."
+
+#: ../aixorder.php:608
+msgid "Home"
+msgstr "Home"
+
+#: ../aixorder.php:609
+msgid "Feed"
+msgstr "Feed"
+
+#: ../aixorder.php:610
+msgid "Categories"
+msgstr "Categories"
+
+#: ../aixorder.php:611
+msgid "Archives"
+msgstr "Archives"
+
+#: ../aixorder.php:612
+msgid "Search results"
+msgstr "Search results"
+
+#: ../aixorder.php:614
+msgid "Choose which section you want to reorder using the custom aiXorder score. If you do not want to surprise your daily visitors but show a more adapted listing in categories and archives, you could deactivate \"Home\". In deactivated sections, the listings are ordered by date."
+msgstr "Choose which section you want to reorder using the custom aiXorder score. If you do not want to surprise your daily visitors but show a more adapted listing in categories and archives, you could deactivate \"Home\". In deactivated sections, the listings are ordered by date."
+
+#: ../aixorder.php:821
+msgid "WP-PostRatings integration"
+msgstr "WP-PostRatings integration"
+
+#: ../aixorder.php:828
+msgid "Coefficient of WP-PostRatings scores in the popularity calcul"
+msgstr "Coefficient of WP-PostRatings scores in the popularity calcul"
+
+#: ../aixorder.php:834
+msgid "Choose here the coefficient to apply to WP-PostsRatings scores when calculating popularity score. The average score will be used. For example, if the post average rating is 4.7, 4.7*X points will be added to the popularity score. Just put 0 if you do not want WP-PostsRatings to be part of the aiXorder score."
+msgstr "Choose here the coefficient to apply to WP-PostsRatings scores when calculating popularity score. The average score will be used. For example, if the post average rating is 4.7, 4.7*X points will be added to the popularity score. Just put 0 if you do not want WP-PostsRatings to be part of the aiXorder score."
+
+#: ../aixorder.php:839
+msgid "<strong>WP-PostsRatings does not seem to be installed and activated on this blog. </strong>WP-PostsRating is a very good Wordpress plugin that allows visitors to rate your posts. aiXorder can integrate this rating in the popularity score calcul ! Find more information about this plugin on <a href=\"http://wordpress.org/extend/plugins/wp-postratings/\">the official plugin repository</a>."
+msgstr "<strong>WP-PostsRatings does not seem to be installed and activated on this blog. </strong>WP-PostsRating is a very good Wordpress plugin that allows visitors to rate your posts. aiXorder can integrate this rating in the popularity score calcul ! Find more information about this plugin on <a href=\"http://wordpress.org/extend/plugins/wp-postratings/\">the official plugin repository</a>."
+
+#: ../aixorder.php:857
+msgid "Reset settings"
+msgstr "Reset settings"
+
+#: ../aixorder.php:863
+msgid "Help | Instructions"
+msgstr "Help | Instructions"
+
+#: ../aixorder.php:869
+msgid "I want to show the chart on a page, how do I do ?"
+msgstr "I want to show the chart on a page, how do I do ?"
+
+#: ../aixorder.php:869
+msgid "If you want to insert the chart you can see on this settings page, you can do it easily: just put the following shortcode anywhere you want in the editor when writing a post or a page:"
+msgstr "If you want to insert the chart you can see on this settings page, you can do it easily: just put the following shortcode anywhere you want in the editor when writing a post or a page:"
+
+#: ../aixorder.php:869
+msgid "You can also insert it directly in a theme template, adding the following line:"
+msgstr "You can also insert it directly in a theme template, adding the following line:"
+
+#: ../aixorder.php:869
+msgid "<br/>In the next update, you will be able to customize this chart ;)"
+msgstr "<br/>In the next update, you will be able to customize this chart ;)"
+
+#: ../aixorder.php:875
+msgid "Database maintenance"
+msgstr "Database maintenance"
+
+#: ../aixorder.php:884
+msgid "You can also only reset the posts statistics since the plugin installation. All statistics will be lost, beware: views data cannot be recalculated."
+msgstr "You can also only reset the posts statistics since the plugin installation. All statistics will be lost, beware: views data cannot be recalculated."
+
+#: ../aixorder.php:886
+msgid "Reset all stats"
+msgstr "Reset all stats"
+
